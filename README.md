@@ -1,7 +1,7 @@
 # rl-sr
 A novel service-centric segment routing for encrypted traffic
 
-#**Implement the experiment with segment routing
+#**Implement the experiment with segment routing**
 
 - Download and run ONOS 2.4 at: xxx. This source code has the parameter measurement module and the segment routing algorithm.
 
@@ -19,6 +19,6 @@ A novel service-centric segment routing for encrypted traffic
 
 *sudo mn --custom sr.py --topo=sr '--controller=remote,ip=127.0.0.1,port=6653'*
 
-#**Instructions for segment routing (SR) using reinforcement learning (RL)
+#**Instructions for segment routing (SR) using reinforcement learning (RL)**
 
 - The path in SR app is stored at https://github.com/vanvantong/rl-sr/blob/master/Service-centric%20Remediation/SR%20App%20in%20ONOS/segmentrouting/app/src/main/java/org/onosproject/segmentrouting/RoutingPaths.csv. To implement SR using RL, you need to run agent in https://github.com/vanvantong/rl-sr/tree/master/Service-centric%20Remediation/RL to update the routing paths in RoutingPaths.csv.
