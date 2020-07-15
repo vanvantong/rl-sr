@@ -3,7 +3,7 @@ A novel service-centric segment routing for encrypted traffic
 
 # **Implement the experiment with segment routing**
 
-- Download and run ONOS 2.4 at: xxx. This source code has the parameter measurement module and the segment routing algorithm.
+- Download and run ONOS 2.4 at: https://drive.google.com/file/d/1bWP5ad1TK6_3VwD--BB1ZlZdHviXrWMR/view?usp=sharing. This source code has the parameter measurement module and the segment routing algorithm.
 
 *cd onos*
 
